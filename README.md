@@ -90,7 +90,7 @@ This project helped me practice:
 👨‍💻 Author
 
 Ritvik Singh Thakur
-Bhavya Hooda
+
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
